@@ -1,2 +1,0 @@
-# Release
-Planet Coaster - Translation
